@@ -18,3 +18,8 @@ body {
 }
 
 /* Write all remaining styles here */
+
+header {
+  padding-bottom: 10px;
+  
+}
